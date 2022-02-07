@@ -2,7 +2,7 @@
 Implemented a naïve bayes classifier that classifies advertisements in 6 different categories.
 
 ## Description
-The objective of this project is to build a naïve bayes classifier that classifies advertisements for second-hand items in categories vehicles, electronic devices, buisinees, for the home, personal, leisure and hobbies. Each advertisement has the following properties:<br />
+The objective of this project is to build a naïve bayes classifier that classifies advertisements for second-hand items in categories: vehicles, electronic devices, buisinees, for the home, personal, leisure and hobbies. Each advertisement has the following properties:<br />
 title, description, categories<br />
 
 For extracting features from title and description, the following steps were taken:<br />
